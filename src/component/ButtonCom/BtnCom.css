@@ -1,0 +1,29 @@
+.btnrowbox {
+    padding: 20px 0 0 0;
+}
+.btnsubmit {
+    width: 100%;
+    padding: 15px 30px;
+    font-family: 'roboto';
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: auto;
+    -webkit-transition: background-color 0.3s ease-in 0s;
+    -moz-transition: background-color 0.3s ease-in 0s;
+    transition: background-color 0.3s ease-in 0s;
+    background-color: #c71c2c;
+    color: #fff;
+    cursor: pointer;
+    display: inherit;
+    outline: none;
+    border: 2px solid #c71c2c;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.lasttext {
+    font-size: 11px;
+    padding: 15px 0 0 0;
+}

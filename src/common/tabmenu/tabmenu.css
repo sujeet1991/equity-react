@@ -1,0 +1,59 @@
+.ultopbdr {
+    border: 1px solid #d5d5d5;
+    border-bottom: 0;
+}
+.equitytabox .libox {
+    background: #f8f8f8;
+    width: 33.33%;
+    float: left;
+    border-right: 1px solid #d5d5d5;
+    list-style-type: none;
+    border-bottom: 5px solid transparent;
+    transition: .2s ease all;
+    cursor: default;
+    border-top: 3px solid transparent;
+}
+.equitytabox .libox.Selected {
+    background: #fff;
+    border-bottom: 5px solid #c41c2b;
+}
+.equitytabox .eqinn {
+    padding: 12px 13px 12px 10px;
+    color: #b5b4b4;
+    text-align: center;
+    cursor: pointer;
+}
+.eqtab3.Selected .eqtabicon {
+    background-position: -49px -71px;
+}
+.eqcommonicon {
+    background: url(./images/sprite-equity.png);
+    width: 28px;
+    height: 28px;
+}
+.simdispblock {
+    vertical-align: top;
+    display: inline-block;
+}
+.eqtxt {
+    padding: 7px 0 0 3px;
+    font-size: 13px;
+}
+.eqtab3.Selected .eqtabicon {
+    background-position: -49px -71px;
+}
+.eqtab3 .eqtabicon {
+    background-position: -6px -71px;
+}
+.eqtab2 .eqtabicon {
+    background-position: -10px -2px;
+}
+.eqtab2.Selected .eqtabicon {
+    background-position: -55px -2px;
+}
+.eqtabicon {
+    background-position: -11px -38px;
+}
+.eqtab1.Selected .eqtabicon {
+    background-position: -54px -38px;
+}
